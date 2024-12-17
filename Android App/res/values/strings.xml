@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe App</string>
+    <string name="titleHomePageL1">3 Steps</string>
+    <string name="titleHomePageL2">TicTacToe</string>
+    <string name="regularGameButton">New Regular Game</string>
+    <string name="regularGameAgainstOpponentButtonEasy">New Regular Game Against AI(Easy)</string>
+    <string name="regularGameAgainstOpponentButtonHard">New Regular Game Against AI(Hard)</string>
+    <string name="threeStepsGameButton">New 3 Steps Game</string>
+    <string name="versionTitle">Code by Almog Babila - Version 1.0</string>
+    <string name="turnHeadline">Turn</string>
+    <string name="xTurn">X</string>
+    <string name="oTurn">O</string>
+    <string name="backButton">Menu</string>
+    <string name="play_against_ai">Play Against AI</string>
+</resources>
